@@ -1,0 +1,76 @@
+LETTER RECOGNITION
+
+
+Max Epoch:
+100000
+
+Learning Rate:
+5e-06
+
+Training Process:
+
+ Error at Epoch:	5000	  is 	1.4537171889230796
+ Error at Epoch:	10000	  is 	0.26647054172812373
+ Error at Epoch:	15000	  is 	0.07570564383227822
+ Error at Epoch:	20000	  is 	0.08011705065122382
+ Error at Epoch:	25000	  is 	0.08086266185076944
+ Error at Epoch:	30000	  is 	0.08074920138591478
+ Error at Epoch:	35000	  is 	0.08036471258239226
+ Error at Epoch:	40000	  is 	0.07974971073560483
+ Error at Epoch:	45000	  is 	0.0791730403276846
+ Error at Epoch:	50000	  is 	0.07872783311179397
+ Error at Epoch:	55000	  is 	0.07838535514124413
+ Error at Epoch:	60000	  is 	0.07812559329421451
+ Error at Epoch:	65000	  is 	0.07800780226422246
+ Error at Epoch:	70000	  is 	0.07809280842242745
+ Error at Epoch:	75000	  is 	0.07813330481687598
+ Error at Epoch:	80000	  is 	0.07773210422942317
+ Error at Epoch:	85000	  is 	0.07717085802327725
+ Error at Epoch:	90000	  is 	0.07672835853553839
+ Error at Epoch:	95000	  is 	0.07641459305245628
+ Error at Epoch:	100000	  is 	0.07617446435666626
+============================================================
+Expected: U | Output: M
+Expected: M | Output: M
+Expected: I | Output: J
+Expected: S | Output: Z
+Expected: N | Output: M
+Expected: N | Output: M
+Expected: J | Output: J
+Expected: R | Output: P
+Expected: L | Output: L
+Expected: M | Output: M
+Expected: O | Output: C
+Expected: H | Output: U
+Expected: P | Output: P
+Expected: J | Output: Z
+============================================================
+Test sample size: 4000 | Correctly predicted sample size: 1272
+Accuracy: 0.318
+============================================================
+A => Sample Number: 156 | Correct Number: 135 | Accuracy: 0.8653846153846154
+B => Sample Number: 136 | Correct Number: 20 | Accuracy: 0.14705882352941177
+C => Sample Number: 142 | Correct Number: 78 | Accuracy: 0.5492957746478874
+D => Sample Number: 167 | Correct Number: 0 | Accuracy: 0.0
+E => Sample Number: 152 | Correct Number: 18 | Accuracy: 0.11842105263157894
+F => Sample Number: 153 | Correct Number: 0 | Accuracy: 0.0
+G => Sample Number: 164 | Correct Number: 1 | Accuracy: 0.006097560975609756
+H => Sample Number: 151 | Correct Number: 0 | Accuracy: 0.0
+I => Sample Number: 165 | Correct Number: 0 | Accuracy: 0.0
+J => Sample Number: 148 | Correct Number: 123 | Accuracy: 0.831081081081081
+K => Sample Number: 146 | Correct Number: 0 | Accuracy: 0.0
+L => Sample Number: 157 | Correct Number: 118 | Accuracy: 0.7515923566878981
+M => Sample Number: 144 | Correct Number: 135 | Accuracy: 0.9375
+N => Sample Number: 166 | Correct Number: 0 | Accuracy: 0.0
+O => Sample Number: 139 | Correct Number: 0 | Accuracy: 0.0
+P => Sample Number: 168 | Correct Number: 154 | Accuracy: 0.9166666666666666
+Q => Sample Number: 168 | Correct Number: 0 | Accuracy: 0.0
+R => Sample Number: 161 | Correct Number: 0 | Accuracy: 0.0
+S => Sample Number: 161 | Correct Number: 0 | Accuracy: 0.0
+T => Sample Number: 151 | Correct Number: 0 | Accuracy: 0.0
+U => Sample Number: 168 | Correct Number: 148 | Accuracy: 0.8809523809523809
+V => Sample Number: 136 | Correct Number: 28 | Accuracy: 0.20588235294117646
+W => Sample Number: 139 | Correct Number: 50 | Accuracy: 0.3597122302158273
+X => Sample Number: 159 | Correct Number: 0 | Accuracy: 0.0
+Y => Sample Number: 145 | Correct Number: 126 | Accuracy: 0.8689655172413793
+Z => Sample Number: 158 | Correct Number: 138 | Accuracy: 0.8734177215189873

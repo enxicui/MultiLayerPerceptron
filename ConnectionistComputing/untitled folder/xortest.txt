@@ -1,0 +1,602 @@
+XOR TEST
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+10000
+
+Learning Rate:
+1.0
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	500		  is 		0.4985695951523545
+ Error at Epoch:	1000		  is 		0.15722825249728814
+ Error at Epoch:	1500		  is 		0.07589896670611285
+ Error at Epoch:	2000		  is 		0.055978863956664876
+ Error at Epoch:	2500		  is 		0.04605277796865034
+ Error at Epoch:	3000		  is 		0.03983517025367208
+ Error at Epoch:	3500		  is 		0.03546128716671039
+ Error at Epoch:	4000		  is 		0.03215824788241882
+ Error at Epoch:	4500		  is 		0.029541003402205376
+ Error at Epoch:	5000		  is 		0.027394008138773313
+ Error at Epoch:	5500		  is 		0.025586684362248202
+ Error at Epoch:	6000		  is 		0.024035369487243705
+ Error at Epoch:	6500		  is 		0.02268413269447366
+ Error at Epoch:	7000		  is 		0.02149419745077445
+ Error at Epoch:	7500		  is 		0.020437701631722826
+ Error at Epoch:	8000		  is 		0.01949385806831074
+ Error at Epoch:	8500		  is 		0.018646552235291533
+ Error at Epoch:	9000		  is 		0.01788284167008109
+ Error at Epoch:	9500		  is 		0.017192026196207272
+ Error at Epoch:	10000		  is 		0.01656507223639821
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.01698737]
+Target:	 [1]  Output:	 [0.98275059]
+Target:	 [1]  Output:	 [0.98429484]
+Target:	 [0]  Output:	 [0.01631357]
+
+Accuracy:0.9834361230417975
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+10000
+
+Learning Rate:
+0.8
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	500		  is 		0.4996816797492012
+ Error at Epoch:	1000		  is 		0.3381048658020865
+ Error at Epoch:	1500		  is 		0.1045043020550785
+ Error at Epoch:	2000		  is 		0.07024713021887999
+ Error at Epoch:	2500		  is 		0.05593686622818482
+ Error at Epoch:	3000		  is 		0.047627490718874635
+ Error at Epoch:	3500		  is 		0.04203035871271053
+ Error at Epoch:	4000		  is 		0.03792458526593698
+ Error at Epoch:	4500		  is 		0.03474049946332177
+ Error at Epoch:	5000		  is 		0.03217219040776157
+ Error at Epoch:	5500		  is 		0.030038958116284705
+ Error at Epoch:	6000		  is 		0.02822651332471409
+ Error at Epoch:	6500		  is 		0.026658814398939662
+ Error at Epoch:	7000		  is 		0.025283284998768564
+ Error at Epoch:	7500		  is 		0.024062463814761945
+ Error at Epoch:	8000		  is 		0.022968988687236364
+ Error at Epoch:	8500		  is 		0.02198242375460723
+ Error at Epoch:	9000		  is 		0.021087168008627404
+ Error at Epoch:	9500		  is 		0.02027103638208546
+ Error at Epoch:	10000		  is 		0.019524281916128573
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.02035374]
+Target:	 [1]  Output:	 [0.97976518]
+Target:	 [1]  Output:	 [0.98151404]
+Target:	 [0]  Output:	 [0.01901689]
+
+Accuracy:0.9804771476580207
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+10000
+
+Learning Rate:
+0.6
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	500		  is 		0.49987886148671345
+ Error at Epoch:	1000		  is 		0.48271085276629105
+ Error at Epoch:	1500		  is 		0.2200612599006983
+ Error at Epoch:	2000		  is 		0.10415706813003373
+ Error at Epoch:	2500		  is 		0.075639554679492
+ Error at Epoch:	3000		  is 		0.061890437847208615
+ Error at Epoch:	3500		  is 		0.0534553958774175
+ Error at Epoch:	4000		  is 		0.04761066631722585
+ Error at Epoch:	4500		  is 		0.043251497224295034
+ Error at Epoch:	5000		  is 		0.03983574073591927
+ Error at Epoch:	5500		  is 		0.03706254573820476
+ Error at Epoch:	6000		  is 		0.03474992472493977
+ Error at Epoch:	6500		  is 		0.032780531248789206
+ Error at Epoch:	7000		  is 		0.0310748959719365
+ Error at Epoch:	7500		  is 		0.029577082282332155
+ Error at Epoch:	8000		  is 		0.02824648198999231
+ Error at Epoch:	8500		  is 		0.027052867470528638
+ Error at Epoch:	9000		  is 		0.025973271837534725
+ Error at Epoch:	9500		  is 		0.02498994459118386
+ Error at Epoch:	10000		  is 		0.024088965684139943
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.02595442]
+Target:	 [1]  Output:	 [0.97529127]
+Target:	 [1]  Output:	 [0.97708378]
+Target:	 [0]  Output:	 [0.02276958]
+
+Accuracy:0.9759127615555121
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+10000
+
+Learning Rate:
+0.4
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	500		  is 		0.4999410940169646
+ Error at Epoch:	1000		  is 		0.49966536830136854
+ Error at Epoch:	1500		  is 		0.481759533547763
+ Error at Epoch:	2000		  is 		0.332794109090566
+ Error at Epoch:	2500		  is 		0.15404199280787417
+ Error at Epoch:	3000		  is 		0.10382196547855618
+ Error at Epoch:	3500		  is 		0.08238882315631384
+ Error at Epoch:	4000		  is 		0.07005278034308515
+ Error at Epoch:	4500		  is 		0.061830005372923276
+ Error at Epoch:	5000		  is 		0.055856613885846194
+ Error at Epoch:	5500		  is 		0.05126571542281011
+ Error at Epoch:	6000		  is 		0.047594341845710424
+ Error at Epoch:	6500		  is 		0.04457041032115558
+ Error at Epoch:	7000		  is 		0.042022374627704875
+ Error at Epoch:	7500		  is 		0.039836089310274374
+ Error at Epoch:	8000		  is 		0.03793229612354366
+ Error at Epoch:	8500		  is 		0.03625402693146406
+ Error at Epoch:	9000		  is 		0.034759149667230566
+ Error at Epoch:	9500		  is 		0.03341574994459893
+ Error at Epoch:	10000		  is 		0.03219915718632393
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.03649034]
+Target:	 [1]  Output:	 [0.96754987]
+Target:	 [1]  Output:	 [0.96898064]
+Target:	 [0]  Output:	 [0.02882751]
+
+Accuracy:0.9678031626413056
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+10000
+
+Learning Rate:
+0.2
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	500		  is 		0.49996893098137773
+ Error at Epoch:	1000		  is 		0.49994039961365333
+ Error at Epoch:	1500		  is 		0.4998749055724428
+ Error at Epoch:	2000		  is 		0.49965710526019314
+ Error at Epoch:	2500		  is 		0.4982916193428134
+ Error at Epoch:	3000		  is 		0.4807933767333794
+ Error at Epoch:	3500		  is 		0.4158769985660354
+ Error at Epoch:	4000		  is 		0.3301618656855891
+ Error at Epoch:	4500		  is 		0.2156339991650046
+ Error at Epoch:	5000		  is 		0.15306643459139668
+ Error at Epoch:	5500		  is 		0.121934895716003
+ Error at Epoch:	6000		  is 		0.10349832745804942
+ Error at Epoch:	6500		  is 		0.09116394895352778
+ Error at Epoch:	7000		  is 		0.08222971514365762
+ Error at Epoch:	7500		  is 		0.07539618001581982
+ Error at Epoch:	8000		  is 		0.0699600066993547
+ Error at Epoch:	8500		  is 		0.0655057851197346
+ Error at Epoch:	9000		  is 		0.06177134058870537
+ Error at Epoch:	9500		  is 		0.05858240349967869
+ Error at Epoch:	10000		  is 		0.055818220380175115
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.06615472]
+Target:	 [1]  Output:	 [0.94536103]
+Target:	 [1]  Output:	 [0.94497586]
+Target:	 [0]  Output:	 [0.0474344]
+
+Accuracy:0.9441869446424069
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+10000
+
+Learning Rate:
+0.02
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	500		  is 		0.4999717272629225
+ Error at Epoch:	1000		  is 		0.49998194405869345
+ Error at Epoch:	1500		  is 		0.4999809369884488
+ Error at Epoch:	2000		  is 		0.49997942133086376
+ Error at Epoch:	2500		  is 		0.4999778268407553
+ Error at Epoch:	3000		  is 		0.4999761645359283
+ Error at Epoch:	3500		  is 		0.4999744275885757
+ Error at Epoch:	4000		  is 		0.4999726077769723
+ Error at Epoch:	4500		  is 		0.4999706960682193
+ Error at Epoch:	5000		  is 		0.4999686825322356
+ Error at Epoch:	5500		  is 		0.4999665562115085
+ Error at Epoch:	6000		  is 		0.49996430496926736
+ Error at Epoch:	6500		  is 		0.49996191531328077
+ Error at Epoch:	7000		  is 		0.4999593721906558
+ Error at Epoch:	7500		  is 		0.4999566587479804
+ Error at Epoch:	8000		  is 		0.4999537560499183
+ Error at Epoch:	8500		  is 		0.4999506427478261
+ Error at Epoch:	9000		  is 		0.49994729468805
+ Error at Epoch:	9500		  is 		0.4999436844471412
+ Error at Epoch:	10000		  is 		0.49993978077819046
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.49820756]
+Target:	 [1]  Output:	 [0.50120411]
+Target:	 [1]  Output:	 [0.49973548]
+Target:	 [0]  Output:	 [0.50249111]
+
+Accuracy:0.5000602273462326
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+1000
+
+Learning Rate:
+1.0
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	50		  is 		0.4999786643276868
+ Error at Epoch:	100		  is 		0.4999700702130121
+ Error at Epoch:	150		  is 		0.4999588423289261
+ Error at Epoch:	200		  is 		0.4999432208196031
+ Error at Epoch:	250		  is 		0.49992000842299733
+ Error at Epoch:	300		  is 		0.4998828496119178
+ Error at Epoch:	350		  is 		0.49981774617716906
+ Error at Epoch:	400		  is 		0.4996897279694855
+ Error at Epoch:	450		  is 		0.49939620912338856
+ Error at Epoch:	500		  is 		0.4985695951523545
+ Error at Epoch:	550		  is 		0.495622537995077
+ Error at Epoch:	600		  is 		0.4845616913659796
+ Error at Epoch:	650		  is 		0.45819309327520086
+ Error at Epoch:	700		  is 		0.4228957821290199
+ Error at Epoch:	750		  is 		0.38539087024066787
+ Error at Epoch:	800		  is 		0.34078142032608566
+ Error at Epoch:	850		  is 		0.28164689564781
+ Error at Epoch:	900		  is 		0.22489263708408566
+ Error at Epoch:	950		  is 		0.18447305413128098
+ Error at Epoch:	1000		  is 		0.15722825249728814
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.16169874]
+Target:	 [1]  Output:	 [0.8471751]
+Target:	 [1]  Output:	 [0.84258719]
+Target:	 [0]  Output:	 [0.15518431]
+
+Accuracy:0.843219811127899
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+1000
+
+Learning Rate:
+0.8
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	50		  is 		0.4999800120175041
+ Error at Epoch:	100		  is 		0.4999735140299073
+ Error at Epoch:	150		  is 		0.49996562388331695
+ Error at Epoch:	200		  is 		0.4999556457394165
+ Error at Epoch:	250		  is 		0.499942504522102
+ Error at Epoch:	300		  is 		0.4999244446119091
+ Error at Epoch:	350		  is 		0.4998984296585336
+ Error at Epoch:	400		  is 		0.49985886362905485
+ Error at Epoch:	450		  is 		0.499794641448836
+ Error at Epoch:	500		  is 		0.4996816797492012
+ Error at Epoch:	550		  is 		0.4994617899427703
+ Error at Epoch:	600		  is 		0.4989750678807394
+ Error at Epoch:	650		  is 		0.49771910190315316
+ Error at Epoch:	700		  is 		0.49402249144103116
+ Error at Epoch:	750		  is 		0.483645505244764
+ Error at Epoch:	800		  is 		0.4630220740090579
+ Error at Epoch:	850		  is 		0.4356402834657243
+ Error at Epoch:	900		  is 		0.4063158149251337
+ Error at Epoch:	950		  is 		0.3753477806096177
+ Error at Epoch:	1000		  is 		0.3381048658020865
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.2817582]
+Target:	 [1]  Output:	 [0.66713837]
+Target:	 [1]  Output:	 [0.66459071]
+Target:	 [0]  Output:	 [0.39898374]
+
+Accuracy:0.6627467878387688
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+1000
+
+Learning Rate:
+0.6
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	50		  is 		0.4999813330538826
+ Error at Epoch:	100		  is 		0.49997671054883436
+ Error at Epoch:	150		  is 		0.4999714337783212
+ Error at Epoch:	200		  is 		0.4999652795316559
+ Error at Epoch:	250		  is 		0.4999579355475511
+ Error at Epoch:	300		  is 		0.4999489692540594
+ Error at Epoch:	350		  is 		0.4999377624095916
+ Error at Epoch:	400		  is 		0.49992340321227613
+ Error at Epoch:	450		  is 		0.49990450172486944
+ Error at Epoch:	500		  is 		0.49987886148671345
+ Error at Epoch:	550		  is 		0.49984286900313113
+ Error at Epoch:	600		  is 		0.4997903007399419
+ Error at Epoch:	650		  is 		0.4997098560501565
+ Error at Epoch:	700		  is 		0.49957971960074765
+ Error at Epoch:	750		  is 		0.4993547138690634
+ Error at Epoch:	800		  is 		0.4989337699525617
+ Error at Epoch:	850		  is 		0.4980734024318868
+ Error at Epoch:	900		  is 		0.49616403581767626
+ Error at Epoch:	950		  is 		0.49179738306223214
+ Error at Epoch:	1000		  is 		0.48271085276629105
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.44705357]
+Target:	 [1]  Output:	 [0.5400904]
+Target:	 [1]  Output:	 [0.51639003]
+Target:	 [0]  Output:	 [0.53929747]
+
+Accuracy:0.5175323479555567
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+1000
+
+Learning Rate:
+0.4
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	50		  is 		0.49998227579309173
+ Error at Epoch:	100		  is 		0.49997970582767703
+ Error at Epoch:	150		  is 		0.4999765200587969
+ Error at Epoch:	200		  is 		0.4999730436983863
+ Error at Epoch:	250		  is 		0.4999692103749178
+ Error at Epoch:	300		  is 		0.49996493947671006
+ Error at Epoch:	350		  is 		0.49996013223627805
+ Error at Epoch:	400		  is 		0.49995466589236603
+ Error at Epoch:	450		  is 		0.4999483857236281
+ Error at Epoch:	500		  is 		0.4999410940169646
+ Error at Epoch:	550		  is 		0.49993253455792735
+ Error at Epoch:	600		  is 		0.4999223704772294
+ Error at Epoch:	650		  is 		0.49991015206995404
+ Error at Epoch:	700		  is 		0.4998952691959522
+ Error at Epoch:	750		  is 		0.49987687948397386
+ Error at Epoch:	800		  is 		0.49985379771662125
+ Error at Epoch:	850		  is 		0.49982432142494115
+ Error at Epoch:	900		  is 		0.49978594890930633
+ Error at Epoch:	950		  is 		0.49973491074806586
+ Error at Epoch:	1000		  is 		0.49966536830136854
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.49437036]
+Target:	 [1]  Output:	 [0.50279568]
+Target:	 [1]  Output:	 [0.49962836]
+Target:	 [0]  Output:	 [0.50670861]
+
+Accuracy:0.500336267381608
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+1000
+
+Learning Rate:
+0.2
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	50		  is 		0.49997208720002373
+ Error at Epoch:	100		  is 		0.4999821018650814
+ Error at Epoch:	150		  is 		0.4999810591299733
+ Error at Epoch:	200		  is 		0.4999795553387417
+ Error at Epoch:	250		  is 		0.4999779769675479
+ Error at Epoch:	300		  is 		0.49997633190713475
+ Error at Epoch:	350		  is 		0.49997461326939413
+ Error at Epoch:	400		  is 		0.49997281296508234
+ Error at Epoch:	450		  is 		0.4999709221196948
+ Error at Epoch:	500		  is 		0.49996893098137773
+ Error at Epoch:	550		  is 		0.49996682879354204
+ Error at Epoch:	600		  is 		0.49996460364691486
+ Error at Epoch:	650		  is 		0.4999622423079637
+ Error at Epoch:	700		  is 		0.49995973001920935
+ Error at Epoch:	750		  is 		0.4999570502659638
+ Error at Epoch:	800		  is 		0.499954184502847
+ Error at Epoch:	850		  is 		0.49995111183195706
+ Error at Epoch:	900		  is 		0.49994780862273347
+ Error at Epoch:	950		  is 		0.49994424806123616
+ Error at Epoch:	1000		  is 		0.49994039961365333
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.49821338]
+Target:	 [1]  Output:	 [0.50120229]
+Target:	 [1]  Output:	 [0.49972934]
+Target:	 [0]  Output:	 [0.50247952]
+
+Accuracy:0.5000596805233223
+
+-------------------------------------------------------------------
+
+----------------------------------------------------------------------
+
+
+Max Epoch:
+1000
+
+Learning Rate:
+0.02
+
+Before Training:
+
+Target:	 [0]  Output:	 [0.73497243]
+Target:	 [1]  Output:	 [0.75492189]
+Target:	 [1]  Output:	 [0.76945373]
+Target:	 [0]  Output:	 [0.78668195]
+
+Training:
+
+ Error at Epoch:	50		  is 		0.49955314081033175
+ Error at Epoch:	100		  is 		0.49971819617303126
+ Error at Epoch:	150		  is 		0.49982025174729644
+ Error at Epoch:	200		  is 		0.49988018353260844
+ Error at Epoch:	250		  is 		0.49991555959758505
+ Error at Epoch:	300		  is 		0.49993728635853285
+ Error at Epoch:	350		  is 		0.49995129110925884
+ Error at Epoch:	400		  is 		0.49996069154836453
+ Error at Epoch:	450		  is 		0.49996717824555303
+ Error at Epoch:	500		  is 		0.4999717272629225
+ Error at Epoch:	550		  is 		0.4999749420158318
+ Error at Epoch:	600		  is 		0.4999772174557141
+ Error at Epoch:	650		  is 		0.49997882276678446
+ Error at Epoch:	700		  is 		0.4999799462368215
+ Error at Epoch:	750		  is 		0.49998072165194307
+ Error at Epoch:	800		  is 		0.49998124495446417
+ Error at Epoch:	850		  is 		0.49998158531936227
+ Error at Epoch:	900		  is 		0.4999817927799014
+ Error at Epoch:	950		  is 		0.4999819035922347
+ Error at Epoch:	1000		  is 		0.49998194405869345
+
+ After Training :
+
+Target:	 [0]  Output:	 [0.50010645]
+Target:	 [1]  Output:	 [0.50185103]
+Target:	 [1]  Output:	 [0.50016335]
+Target:	 [0]  Output:	 [0.50183571]
+
+Accuracy:0.5000180557084594
+
+-------------------------------------------------------------------
+
